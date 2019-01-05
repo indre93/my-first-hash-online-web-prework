@@ -15,7 +15,6 @@ def shipping_manifest
   }
 end
 
-shipping_manifest["oil paintings"]
 
 def retrieval
   shipping_manifest = {
