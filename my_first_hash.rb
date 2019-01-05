@@ -3,7 +3,7 @@ def my_hash
     "name" => "Indre Bakeer", 
     "age" => 25, 
     "country of birth" => "France"
-  }
+    }
 end
 
 
